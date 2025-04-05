@@ -1,7 +1,7 @@
 import speech_recognition as sr 
 
-filename = "ella2.wav" #archivo audio (formato wav)
-outputFile = "transcripcion.txt" #archivo de salida (formato txt)
+filename = "somefile.wav" #archivo audio (formato wav)
+outputFile = "somefile.txt" #archivo de salida (formato txt)
 
 r = sr.Recognizer()
 
